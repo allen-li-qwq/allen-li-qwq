@@ -1,14 +1,11 @@
-#Heading level 1👋 Hi, I’m @allen-li-qwq
+👋 Hi, I’m @allen-li-qwq
 
 ! My repositories !
 ===========================================================================
 
-
-|       Name      |                         Process                       |  
-
- MyIDEpy           =========== 20%, pending  
+ MyIDEpy  20%, pending  
       
- ArcCoin           Just started, pending  
+ ArcCoin Just started, pending  
       
  Kerninum Kernel  >>Active>>
   
